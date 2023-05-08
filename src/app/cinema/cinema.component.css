@@ -1,0 +1,8 @@
+.clickable {
+    cursor: pointer;
+}
+
+.ticket {
+    margin: 5px;
+    width: 40px;
+}
